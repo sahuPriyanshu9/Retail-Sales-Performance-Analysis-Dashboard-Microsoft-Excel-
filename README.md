@@ -667,9 +667,9 @@ This project was built leveraging knowledge from:
 
 **Ayush Singh**
 
-📧 **Email**: as764994@gmail.com 
-💼 **LinkedIn**: [LinkedIn](www.linkedin.com/in/ayush-singh-finance)  
-🐱 **GitHub**: [GitHub](https://github.com/as764994-droid))  
+📧 **Email**: sahuharsh2580@gmail.com 
+💼 **LinkedIn**: [LinkedIn](www.linkedin.com/in/priyanshu-sahu-analyst)  
+🐱 **GitHub**: [GitHub]((https://github.com/sahuPriyanshu9)))  
 
 ---
 
@@ -677,8 +677,6 @@ This project was built leveraging knowledge from:
 
 Special thanks to the educators and platforms that made this project possible:
 
-- **Office Master** - For Excel fundamentals and AI integration concepts
-- **Aditya Goenka (Be10x)** - For AI-driven analytics methodology
 - **PWSkills** - For comprehensive data analytics curriculum
 - **Shubham Bhatt** - For advanced Excel techniques and guidance
 - **Tushar Jha** - For project framework and industry best practices
